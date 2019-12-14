@@ -1,0 +1,11 @@
+{
+  "name": "videomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "piece.js",
+  "scripts": {
+    "dev": "npx serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
